@@ -1,0 +1,47 @@
+class KeyLang {
+  static const String appName = 'appName';
+  static const String userName = 'User Name';
+  static const String phone = 'phone number';
+  static const String projectName = 'Project Name';
+
+  static const String buyer = 'Request a service';
+  static const String email = 'Email';
+  static const String seller = 'Provide a service';
+  static const String confirmPassword = 'Confirm Password';
+  static const String password = 'Password';
+  static const String login = 'Login';
+  static const String signup = 'Sign up';
+  static const String selectLanguage = "selectLanguage";
+  static const String newsTab = "newsTab";
+  static const String gamesTab = "gamesTab";
+  static const String premiumTab = "premiumTab";
+  static const String socialMediaTab = "socialMediaTab";
+  static const String nameUser = " nameUser";
+  static const String myApps = "myApps";
+  static const String terms = "terms";
+  static const String themes = "themes";
+  static const String language = "language";
+  static const String english = "english";
+  static const String arabic = "arabic";
+  static const String cancel = "cancel";
+  static const String artDesign = "artDesign";
+  static const String education = "education";
+  static const String auto = "auto";
+  static const String light = "light";
+  static const String dark = "dark";
+  static const String install = "install";
+  static const String uninstall = "uninstall";
+  static const String type = "type";
+  static const String storage = "storage";
+  static const String download = "download";
+  static const String megabyte = "megabyte";
+  static const String successInstalled = "successInstalled";
+  static const String successUninstalled = "successUninstalled";
+  static const String somethingWrong = "somethingWrong";
+  static const String emptyDownloaded = "emptyDownloaded";
+  static const String errorFetchData = "errorFetchData";
+  static const String errorNoData = " errorNoData";
+  static const String errorDownloading = " errorDownloading";
+  static const String errorUninstalling = " errorUninstalling";
+  static const String jd = "jd";
+}
